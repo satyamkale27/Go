@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 // func main(){
 // 	fmt.Println("go"+"lang")
 // 	fmt.Println("1+1", 1+1)
@@ -10,6 +8,5 @@ import "fmt"
 // }
 
 func main(){
-	var a = "initial";
-	fmt.Println(a)
+	variables();
 }
