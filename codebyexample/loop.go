@@ -29,7 +29,7 @@ import "fmt"
 
 for n:= range 6 {
 	if(n%2 == 0){
-		continue       // continue is used to skip the current iteration of the loop and proceed to the next iteration. //
+		continue       // continue is used to skip the current iteration of the loop and proceed to the next iteration. // bypass the remaining code in the current iteration //
 	}
 	fmt.Println(n)
 }
