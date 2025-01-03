@@ -8,4 +8,14 @@ func conditions(){
 	} else {
 		fmt.Println("7 os odd")
 	}
+
+
+if num :=10; num < 0 {
+  fmt.Println(num, "is negative")
+} else if num < 10 {
+	fmt.Println("it has 1 digit")
+} else{
+	fmt.Println("it has multiple digits")
+}
+
 }
