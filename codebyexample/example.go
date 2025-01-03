@@ -8,6 +8,7 @@ package main
 // }
 
 func main(){
-	variables();
-	loop()
+	// variables();
+	// loop()
+	conditions()
 }
